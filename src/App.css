@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: orange;
+  color: white;
+}
+
+table{
+  width: 500px;
+  margin: 100px auto 0 auto;
+}
+
